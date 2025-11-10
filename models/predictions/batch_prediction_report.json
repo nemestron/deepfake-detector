@@ -1,0 +1,26 @@
+{
+  "batch_summary": {
+    "total_images": 5950,
+    "real_detections": 441,
+    "fake_detections": 5509,
+    "real_percentage": 7.411764705882352,
+    "fake_percentage": 92.58823529411765,
+    "avg_confidence": 0.9337134579008585,
+    "confidence_std": 0.11682391766350914
+  },
+  "confidence_stats": {
+    "min": 0.500033974647522,
+    "max": 0.9999999975132854,
+    "median": 0.9923215205781162,
+    "q1": 0.9343265704810619,
+    "q3": 0.9995057426422136
+  },
+  "class_confidence": {
+    "real_avg_confidence": 0.7075924790905717,
+    "fake_avg_confidence": 0.9518146290127368
+  },
+  "processing_info": {
+    "timestamp": "2025-11-09T20:18:57.952767",
+    "model_used": "simple_deepfake_model.h5"
+  }
+}

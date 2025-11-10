@@ -1,0 +1,42 @@
+{
+  "test_summary": {
+    "total_images": 4,
+    "real_predictions": 2,
+    "fake_predictions": 2,
+    "average_confidence": 0.7864525448530912
+  },
+  "predictions": [
+    {
+      "predicted_class": "REAL",
+      "confidence": 0.590577244758606,
+      "raw_score": 0.590577244758606,
+      "threshold": 0.5,
+      "is_real": true,
+      "image_path": "D:\\A Image Classification\\deepfake_detector\\data\\processed\\test\\real\\real_1.jpg"
+    },
+    {
+      "predicted_class": "REAL",
+      "confidence": 0.5728300213813782,
+      "raw_score": 0.5728300213813782,
+      "threshold": 0.5,
+      "is_real": true,
+      "image_path": "D:\\A Image Classification\\deepfake_detector\\data\\processed\\test\\real\\real_10.jpg"
+    },
+    {
+      "predicted_class": "FAKE",
+      "confidence": 0.9918493162840605,
+      "raw_score": 0.008150683715939522,
+      "threshold": 0.5,
+      "is_real": false,
+      "image_path": "D:\\A Image Classification\\deepfake_detector\\data\\processed\\test\\fake\\fake_36198.jpg"
+    },
+    {
+      "predicted_class": "FAKE",
+      "confidence": 0.9905535969883204,
+      "raw_score": 0.00944640301167965,
+      "threshold": 0.5,
+      "is_real": false,
+      "image_path": "D:\\A Image Classification\\deepfake_detector\\data\\processed\\test\\fake\\fake_36199.jpg"
+    }
+  ]
+}

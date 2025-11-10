@@ -1,0 +1,18 @@
+{
+  "input_shape": [
+    256,
+    256,
+    3
+  ],
+  "total_parameters": 1509185,
+  "layers_count": 38,
+  "model_type": "Advanced CNN with Residual Connections",
+  "optimizer": "Adam with Exponential Decay",
+  "loss_function": "binary_crossentropy",
+  "metrics": [
+    "accuracy",
+    "precision",
+    "recall",
+    "auc"
+  ]
+}

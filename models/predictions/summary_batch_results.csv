@@ -1,0 +1,5 @@
+,confidence,confidence,confidence,confidence,confidence,raw_score,raw_score
+,count,mean,std,min,max,mean,std
+predicted_class,,,,,,,
+FAKE,19,0.9788,0.0565,0.7539,0.9999,0.0212,0.0565
+REAL,1,0.5617,,0.5617,0.5617,0.5617,

@@ -1,0 +1,21 @@
+filename,predicted_class,confidence,raw_score,is_real,file_path
+fake_37214.jpg,FAKE,0.9960142406634986,0.00398575933650136,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_37214.jpg
+fake_40465.jpg,FAKE,0.999898870162724,0.00010112983727594838,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_40465.jpg
+fake_36963.jpg,FAKE,0.9959360407665372,0.0040639592334628105,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_36963.jpg
+fake_38022.jpg,FAKE,0.9945127172395587,0.005487282760441303,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_38022.jpg
+fake_38508.jpg,FAKE,0.9936670018360019,0.006332998163998127,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_38508.jpg
+fake_37654.jpg,FAKE,0.9537457451224327,0.04625425487756729,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_37654.jpg
+fake_39393.jpg,FAKE,0.999933057493763,6.694250623695552e-05,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_39393.jpg
+fake_39763.jpg,FAKE,0.9989935711491853,0.0010064288508147001,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_39763.jpg
+fake_40371.jpg,FAKE,0.9980728488881141,0.0019271511118859053,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_40371.jpg
+fake_38995.jpg,FAKE,0.9996112157241441,0.00038878427585586905,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_38995.jpg
+fake_38099.jpg,FAKE,0.9691652059555054,0.03083479404449463,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_38099.jpg
+fake_40670.jpg,FAKE,0.9988055642461404,0.0011944357538595796,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_40670.jpg
+fake_40337.jpg,FAKE,0.999060083006043,0.0009399169939570129,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_40337.jpg
+real_3769.jpg,REAL,0.5617402791976929,0.5617402791976929,True,D:\A Image Classification\deepfake_detector\data\processed\test\real\real_3769.jpg
+fake_39294.jpg,FAKE,0.994308790192008,0.0056912098079919815,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_39294.jpg
+fake_37752.jpg,FAKE,0.7538663446903229,0.24613365530967712,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_37752.jpg
+fake_39285.jpg,FAKE,0.9991672729956917,0.0008327270043082535,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_39285.jpg
+fake_37852.jpg,FAKE,0.9540776610374451,0.04592233896255493,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_37852.jpg
+fake_40294.jpg,FAKE,0.9993347656563856,0.0006652343436144292,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_40294.jpg
+fake_38869.jpg,FAKE,0.9992084160912782,0.0007915839087218046,False,D:\A Image Classification\deepfake_detector\data\processed\test\fake\fake_38869.jpg
